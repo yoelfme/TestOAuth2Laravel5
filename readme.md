@@ -18,6 +18,8 @@ DB_USERNAME=homestead
 DB_PASSWORD=secret
 ```
 
+*You should been created your database with the name oauth2_server1*
+
 - Run migrations, via `php artisan migrate`
 - Run seeders, via `php artisan db:seed`
 - Test the application via CURL o Postman, send the fields by method POST to URL `urlproject/oauth/access_token`.
