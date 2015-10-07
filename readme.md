@@ -3,7 +3,7 @@
 This is a mini application that implement the library [oauth2-server-laravel](https://github.com/lucadegasperi/oauth2-server-laravel) for create a server of OAuth2 with [Laravel](http://laravel.com/)
 
 
-### Environment Setup
+### Environment Setup via Homestead
 
 - Clone the repo.
   - By SSH, run the command `git clone git@github.com:yoelfme/TestOAuth2Laravel5.git`
